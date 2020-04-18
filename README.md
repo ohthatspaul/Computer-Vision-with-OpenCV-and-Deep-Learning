@@ -1,7 +1,7 @@
 #  Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning
  Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning-Udemy-Course
 
-Udemy Course ( https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/ )
+
 
 - Understand basics of NumPy
 - Manipulate and open Images with NumPy

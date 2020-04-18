@@ -18,4 +18,5 @@ while True:
     cv2.imshow('Draw-Circles',img_draw)
     if cv2.waitKey(20) & 0xFF==27:
         break
+#closes all widows
 cv2.destroyAllWindows()
